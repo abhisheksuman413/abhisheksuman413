@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Suman</h1>
 <h3 align="center">𝕡𝕣𝕚𝕧𝕒𝕔𝕪 𝕚𝕤 𝕒 𝕞𝕪𝕥𝕙 𝕛𝕦𝕤𝕥 𝕝𝕚𝕜𝕖 𝕕𝕖𝕞𝕠𝕔𝕣𝕒𝕔𝕪</h3>
 
-<img src="https://github.com/abhisheksuman413/For-learning/blob/master/178-1789104_computer-science-wallpaper-steve-jobs-frases.jpg?raw=true">
+<img src="https://github.com/abhisheksuman413/For-learning/blob/master/0_Cl0UGS50F7Rs25i7.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksuman413&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksuman413" /> </p>
 
