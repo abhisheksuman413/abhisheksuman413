@@ -58,5 +58,94 @@ I am skilled in multiple programming languages, including:
 
 <br>
 
+### 👩‍💻 MINI PROJECTS
+
+|S.No.|Project Name|Technologies Used | GitHub Link |
+|--------|----|----|----|
+| 1 |BMI Calculator| Kotlin, Xml, Android Jetpack :- ViewBinding, Lifecycles | [link](https://github.com/abhisheksuman413/BMI-Calculator)|
+| 2 |Employee Management System| CPP and OOPs| [link](https://github.com/abhisheksuman413/Employee-Management-System)|
+
+
+ <br>
+
+ ## 💻LANGUAGES 🛠️FRAMEWORKS and 🔧TOOLS 
+<p align="left">
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a> 
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  
+   <img src="https://github.com/abhisheksuman413/abhisheksuman413/blob/main/xml.png" alt="xml" width="40" height="40"/>  
+ 
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/abhisheksuman413/abhisheksuman413/blob/main/android-studio-icon.png" alt="android studio" width="40" height="40"/></a>
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/></a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+
+</p>
+
+
+
+
+
+
+<h3 align="left">🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗶𝗻 𝗷𝘂𝘀𝘁 𝗼𝗻𝗲 𝗰𝗹𝗶𝗰𝗸 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲! 🤝:</h3>
+<p align="left">
+  
+   <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abhisheksuman413/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <!-- Medium -->
+  <a href="https://medium.com/@abhisheksuman413" target="blank">
+    <img align="center" src="https://github.com/abhisheksuman413/abhisheksuman413/blob/main/medium.png" alt="medium" height="30" width="40" /></a>
+  <!-- Twitter -->
+  <a href="https://x.com/69__fps"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabhishek413" height="30"width="40"/></a>
+  <!-- Discord -->
+  <a href="https://discord.gg/D5HphvGm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/69_.fps/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aabhishek413" height="30" width="40" /></a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/hramibacha420/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
+
+##
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksuman413&show_icons=true&locale=en&layout=compact" alt="abhisheksuman413" /></p>
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksuman413&" alt="abhisheksuman413" /></p>
+
+
+
+
+
+
 
 
