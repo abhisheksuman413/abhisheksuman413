@@ -111,9 +111,9 @@ I am skilled in multiple programming languages, including:
 
 ### 💻 CODING PROFILES
 
-<a href="https://leetcode.com/shweta_bhagat/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
-<a href="https://www.codingninjas.com/codestudio/profile/<your-profile-id>"><img src="https://img.shields.io/badge/coding_ninjas-%231F8CFF.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></img></a>
-<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
+<a href="https://leetcode.com/u/abhisheksuman413/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
+<a href="https://www.naukri.com/code360/profile/6ec85130-2d0b-47d7-9ced-6775fca186d7>"><img src="https://img.shields.io/badge/coding_ninjas-%231F8CFF.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></img></a>
+<a href="https://www.geeksforgeeks.org/user/abhisheksuman413/"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
 
 <br>
 
