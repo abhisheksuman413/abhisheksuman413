@@ -106,12 +106,18 @@ I am skilled in multiple programming languages, including:
 
 </p>
 
+<br>
 
 
+### 💻 CODING PROFILES
 
+<a href="https://leetcode.com/shweta_bhagat/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
+<a href="https://www.codingninjas.com/codestudio/profile/<your-profile-id>"><img src="https://img.shields.io/badge/coding_ninjas-%231F8CFF.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></img></a>
+<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
 
+<br>
 
-<h3 align="left">🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗶𝗻 𝗷𝘂𝘀𝘁 𝗼𝗻𝗲 𝗰𝗹𝗶𝗰𝗸 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲! 🤝:</h3>
+### 🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗶𝗻 𝗷𝘂𝘀𝘁 𝗼𝗻𝗲 𝗰𝗹𝗶𝗰𝗸 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲! 🤝
 <p align="left">
   
    <!-- LinkedIn -->
@@ -133,12 +139,13 @@ I am skilled in multiple programming languages, including:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
-##
+<br>
 
+
+
+
+## 📈 CONTRIBUTION STATS 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksuman413&show_icons=true&locale=en&layout=compact" alt="abhisheksuman413" /></p>
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksuman413&" alt="abhisheksuman413" /></p>
 
