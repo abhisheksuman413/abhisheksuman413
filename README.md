@@ -53,7 +53,8 @@ I am skilled in multiple programming languages, including:
 
 |S.No.|Project Name|Technologies Used | Live App | GitHub Link |
 |--------|----|----|----| ---- |
-| 1 | Ab Work Manager |Kotlin, Xml, Kotlin Coroutines, RecyclerView with AsyncListDiffer, Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Realtime Database, Notification Channel   | not yet deployed... | [link](https://github.com/abhisheksuman413/Ab-Work-Manager) |
+| 1 | Bhagavad Gita |Kotlin, Xml, Kotlin Coroutines, MVVM Architecture with Repository Pattern, Retrofit, RoomDB, SharedPreferences, Fragments, Navigation Graph, Animations, Flow, LiveData   | not yet deployed... | [link](https://github.com/abhisheksuman413/Bhagavad-Gita) |
+| 2 | Ab Work Manager |Kotlin, Xml, Kotlin Coroutines, RecyclerView with AsyncListDiffer, Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Realtime Database, Notification Channel   | not yet deployed... | [link](https://github.com/abhisheksuman413/Ab-Work-Manager) |
 | 2 | Table16Restro |Kotlin, Xml, Firebase Realtime Database, Firebase Authentication, RecyclerView, Material Design, Android Jetpack :- ViewBinding, Lifecycles|  not yet deployed...  | User APK:- [link](https://github.com/abhisheksuman413/Table16Restro) Admin APK:- [link](https://github.com/abhisheksuman413/Table16Restro_Admin) | 
 
 <br>
