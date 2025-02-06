@@ -26,18 +26,18 @@ I have cultivated a deep understanding of Android development, specializing in t
 - **Firebase Integration**: Skilled in integrating Firebase for real-time databases, authentication, and cloud storage.
 - **UI/UX Design**: Experienced in using XML for creating intuitive and dynamic user interfaces.
 - **Advanced Tools & Techniques**: 
-  - Git and GitHub for version control
-  - Kotlin Coroutines for asynchronous programming
-  - Retrofit for API integration
-  - RecyclerView for efficient list rendering
-  - MVVM Architecture with Repository Pattern
-  - Flow
-  - LiveData
-  - RoomDB
-  - SharedPreferences
-  - Fragments
-  - Navigation Graph
-  - Animations 
+  - Git & GitHub – Version control and collaborative development
+  - Kotlin Coroutines – Efficient asynchronous programming
+  - Retrofit – API integration and network calls
+  - RecyclerView – Efficient list rendering and UI optimization
+  - MVVM Architecture with Repository Pattern – Clean and maintainable code
+  - Flow & LiveData – Reactive programming for real-time data updates
+  - RoomDB – Local database management with SQLite abstraction
+  - SharedPreferences – Lightweight data storage for user preferences
+  - Fragments – Modular UI design for scalable apps
+  - Fragments – Modular UI design for scalable apps
+  - Animations in Navigation Graph – Smooth transitions between fragments
+     
 
 ## Strong Foundation in Computer Science
 Beyond Android development, I possess a comprehensive understanding of core computer science concepts:
