@@ -30,6 +30,14 @@ I have cultivated a deep understanding of Android development, specializing in t
   - Kotlin Coroutines for asynchronous programming
   - Retrofit for API integration
   - RecyclerView for efficient list rendering
+  - MVVM Architecture with Repository Pattern
+  - Flow
+  - LiveData
+  - RoomDB
+  - SharedPreferences
+  - Fragments
+  - Navigation Graph
+  - Animations 
 
 ## Strong Foundation in Computer Science
 Beyond Android development, I possess a comprehensive understanding of core computer science concepts:
